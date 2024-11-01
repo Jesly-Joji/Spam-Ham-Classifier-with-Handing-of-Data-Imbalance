@@ -11,7 +11,7 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')
 nltk.download('punkt_tab')
 
-model_url = "https://github.com/Jesly-Joji/Spam-Ham-Classifier/raw/main/MNB_model.pkl"
+model_url = "https://raw.githubusercontent.com/Jesly-Joji/Spam-Ham-Classifier-with-Handing-of-Data-Imbalance/main/bnb_model.pkl"
 
 response = requests.get(model_url)
 with open("MNB_model.pkl", "wb") as f:
