@@ -11,8 +11,8 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')
 nltk.download('punkt_tab')
 
-#model_url = "https://raw.githubusercontent.com/Jesly-Joji/Spam-Ham-Classifier-with-Handing-of-Data-Imbalance/main/bnb_model.pkl"
-model_url="https://raw.githubusercontent.com/Jesly-Joji/Spam-Ham-Classifier-with-Handing-of-Data-Imbalance/main/MNB_model%20(1).pkl"
+model_url = "https://raw.githubusercontent.com/Jesly-Joji/Spam-Ham-Classifier-with-Handing-of-Data-Imbalance/main/bnb_model.pkl"
+#model_url="https://raw.githubusercontent.com/Jesly-Joji/Spam-Ham-Classifier-with-Handing-of-Data-Imbalance/main/MNB_model%20(1).pkl"
 
 
 response = requests.get(model_url)
