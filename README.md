@@ -15,5 +15,3 @@ F1- Score: 98%<br>
 ![Screenshot (747)](https://github.com/user-attachments/assets/d215fd86-6418-4e53-b7d6-c96db4f163dc)
 ![Screenshot (748)](https://github.com/user-attachments/assets/1073aebd-1781-44f8-94a2-6ff0a515c0f7)
 
-
-![Screenshot (747)](https://github.com/user-attachments/assets/2b61b39d-1879-41a4-91fb-bbb0d1cf68bd) ![Screenshot (748)](https://github.com/user-attachments/assets/eb768ef7-2a24-43b0-bd39-db6eab3fd992)
