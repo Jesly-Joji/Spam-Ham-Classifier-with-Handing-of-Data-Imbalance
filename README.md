@@ -7,8 +7,9 @@ Used the Naive-Bayes Algorithm<br>
 ![__results___26_0](https://github.com/user-attachments/assets/9f81e053-6ec2-4bb7-88e0-89bbad873511)
 
 
+
+<H2>CONFUSION MATRIX </H2> <br>
 F1- Score: 98%<br>
-<b>CONFUSION MATRIX </b> <br>
 ![download](https://github.com/user-attachments/assets/6ee636e6-5a35-4815-b323-3f55a8a81fc6) <br>
 <H2>OUTPUT</H2>
 
