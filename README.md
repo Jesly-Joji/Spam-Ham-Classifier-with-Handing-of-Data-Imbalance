@@ -4,6 +4,8 @@ Used the Naive-Bayes Algorithm<br>
 <h2>Distribution of Dataset</h2> <br>
 
 ![__results___24_0](https://github.com/user-attachments/assets/d52dc556-39cb-4575-b5aa-aa103f59e746)
+![__results___26_0](https://github.com/user-attachments/assets/9f81e053-6ec2-4bb7-88e0-89bbad873511)
+
 
 F1- Score: 98%<br>
 <b>CONFUSION MATRIX </b> <br>
