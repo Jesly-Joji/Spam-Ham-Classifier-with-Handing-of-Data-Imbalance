@@ -1,7 +1,7 @@
 # Spam-Ham-Classifier-with-Handing-of-Data-Imbalance<br>
 Use SMOTE[Synthetic Minority Oversampling Technique] to handle the data imbalance<br>
 Used the Naive-Bayes Algorithm<br>
-Distribution of Dataset<br>
+<h2>Distribution of Dataset</h2><br>
 ![__results___24_0](https://github.com/user-attachments/assets/d52dc556-39cb-4575-b5aa-aa103f59e746)
 
 F1- Score: 98%<br>
