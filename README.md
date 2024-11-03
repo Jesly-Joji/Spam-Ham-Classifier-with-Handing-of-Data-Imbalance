@@ -1,6 +1,7 @@
 # Spam/Ham Classifier with Handing of Data-Imbalance<br>
-Use SMOTE[Synthetic Minority Oversampling Technique] to handle the data imbalance<br>
 Used the Naive-Bayes Algorithm<br>
+Use SMOTE[Synthetic Minority Oversampling Technique] to handle the data imbalance<br>
+SMOTE (synthetic minority oversampling technique) is one of the most commonly used oversampling methods to solve the imbalance problem. It aims to balance class distribution by randomly increasing minority class examples by replicating them
 <h2>Distribution of Dataset</h2> <br>
 
 ![__results___24_0](https://github.com/user-attachments/assets/d52dc556-39cb-4575-b5aa-aa103f59e746)
